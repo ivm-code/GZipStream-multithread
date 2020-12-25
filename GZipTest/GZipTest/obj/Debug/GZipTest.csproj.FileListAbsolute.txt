@@ -1,0 +1,7 @@
+C:\Users\igor\source\repos\GzipRepo\GZipTest\GZipTest\obj\Debug\GZipTest.csprojAssemblyReference.cache
+C:\Users\igor\source\repos\GzipRepo\GZipTest\GZipTest\obj\Debug\GZipTest.csproj.CoreCompileInputs.cache
+C:\Users\igor\source\repos\GzipRepo\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
+C:\Users\igor\source\repos\GzipRepo\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+C:\Users\igor\source\repos\GzipRepo\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+C:\Users\igor\source\repos\GzipRepo\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+C:\Users\igor\source\repos\GzipRepo\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
